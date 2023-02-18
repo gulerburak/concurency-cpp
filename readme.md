@@ -1,7 +1,7 @@
 # Concurency on C++
 
 Build:
-`g++ -std=c++17 thread1.cpp -o prog`
+`g++ -std=c++20 jthreads.cpp -o prog`
 
 Run:
 `./prog`
